@@ -82,3 +82,4 @@ store.dispatch(createClaim('Alex', 120));
 
 
 console.log(store.getState());
+
